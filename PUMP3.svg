@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="204.24005"
-     inkscape:cy="805.47247"
+     inkscape:zoom="1.979899"
+     inkscape:cx="400.04096"
+     inkscape:cy="820.77211"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,26 +61,29 @@
        x="49.849815"
        y="27.647352"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
-    <circle
-       id="pump1"
-       cx="52.565342"
-       cy="47.570419"
-       r="20.218601"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#4D4D4D&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#FFFFFF/#0000FF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFA500&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
+    <g
+       id="g8836">
+      <circle
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#4D4D4D&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#FFFFFF/#0000FF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFA500&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="20.218601"
+         cy="47.570419"
+         cx="52.565342"
+         id="pump1" />
+      <flowRoot
+         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not Installed&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance/Disabled&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"
+         transform="matrix(0.32979974,0,0,0.3018446,-3.089469,-206.08455)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="StatusText"
+         xml:space="preserve"><flowRegion
+           id="flowRegion8686"><rect
+             y="925.53992"
+             x="109.09647"
+             height="47.477169"
+             width="260.61935"
+             id="rect8688" /></flowRegion><flowPara
+           id="flowPara8690">status</flowPara></flowRoot>    </g>
     <flowRoot
-       xml:space="preserve"
-       id="StatusText"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.32979974,0,0,0.3018446,-3.089469,-206.08455)"
-       inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not Installed&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance/Disabled&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"><flowRegion
-         id="flowRegion8686"><rect
-           id="rect8688"
-           width="260.61935"
-           height="47.477169"
-           x="109.09647"
-           y="925.53992" /></flowRegion><flowPara
-         id="flowPara8690">status</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8751"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -103,16 +106,20 @@
            height="85.714287"
            x="447.14285"
            y="78.233971" /></flowRegion><flowPara
-         id="flowPara8765">faceplate</flowPara></flowRoot>    <flowRoot
+         id="flowPara8765">faceplate</flowPara></flowRoot>    <text
        xml:space="preserve"
-       id="flowRoot8777"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="scale(0.26458333)"><flowRegion
-         id="flowRegion8779"><rect
-           id="rect8781"
-           width="205.71428"
-           height="147.14285"
-           x="477.14285"
-           y="116.8054" /></flowRegion><flowPara
-         id="flowPara8783">text</flowPara></flowRoot>  </g>
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.24397"
+       y="40.56007"
+       id="text38"><tspan
+         sodipodi:role="line"
+         x="126.24397"
+         y="40.56007"
+         id="tspan36"
+         style="stroke-width:0.26458332"><tspan
+           x="126.24397"
+           y="40.56007"
+           id="tspan34"
+           style="stroke-width:0.26458332">text</tspan></tspan></text>
+  </g>
 </svg>

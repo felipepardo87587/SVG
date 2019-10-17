@@ -17,7 +17,20 @@
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
    sodipodi:docname="PUMP3.svg">
   <defs
-     id="defs8713" />
+     id="defs8713">
+    <font
+       horiz-adv-x="1024"
+       id="font3766"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face3768"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3770" />
+    </font>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#999999"
@@ -115,18 +128,20 @@
            y="78.233971" /></flowRegion><flowPara
          id="flowPara8765">faceplate</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="125.71481"
-       y="38.443401"
-       id="text38"><tspan
+       style="font-style:normal;font-weight:normal;font-size:25.36374283px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63409358"
+       x="130.64491"
+       y="47.552383"
+       id="text38"
+       transform="scale(0.95907888,1.0426671)"
+       inkscape:label=""><tspan
          sodipodi:role="line"
-         x="125.71481"
-         y="38.443401"
+         x="130.64491"
+         y="47.552383"
          id="tspan36"
-         style="stroke-width:0.26458332"><tspan
-           x="125.71481"
-           y="38.443401"
+         style="stroke-width:0.63409358"><tspan
+           x="130.64491"
+           y="47.552383"
            id="tspan34"
-           style="stroke-width:0.26458332">text</tspan></tspan></text>
+           style="stroke-width:0.63409358">text</tspan></tspan></text>
   </g>
 </svg>

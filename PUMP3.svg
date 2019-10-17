@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="400.04096"
-     inkscape:cy="820.77211"
+     inkscape:zoom="0.35"
+     inkscape:cx="185.94205"
+     inkscape:cy="1098.9803"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,41 +61,48 @@
        x="49.849815"
        y="27.647352"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
-    <g
-       id="g8836">
-      <circle
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#4D4D4D&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#FFFFFF/#0000FF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFA500&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="20.218601"
-         cy="47.570419"
-         cx="52.565342"
-         id="pump1" />
-      <flowRoot
-         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not Installed&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance/Disabled&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"
-         transform="matrix(0.32979974,0,0,0.3018446,-3.089469,-206.08455)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         id="StatusText"
-         xml:space="preserve"><flowRegion
-           id="flowRegion8686"><rect
-             y="925.53992"
-             x="109.09647"
-             height="47.477169"
-             width="260.61935"
-             id="rect8688" /></flowRegion><flowPara
-           id="flowPara8690">status</flowPara></flowRoot>    </g>
-    <flowRoot
+    <circle
+       id="pump1"
+       cx="52.565342"
+       cy="47.570419"
+       r="20.218601"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#4D4D4D&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#FFFFFF/#0000FF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFA500&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
+    <text
        xml:space="preserve"
-       id="flowRoot8751"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.82409929,0,0,0.76689923,-23.058177,-201.39191)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;STATUS&quot;,&quot;type&quot;:&quot;Good&quot;}"><flowRegion
-         id="flowRegion8753"><rect
-           id="rect8755"
-           width="530"
-           height="78.571426"
-           x="40"
-           y="392.51968" /></flowRegion><flowPara
-         id="flowPara8757">text</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:25.71945953px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64298648"
+       x="36.419758"
+       y="85.451851"
+       id="text49"
+       transform="scale(0.88883003,1.1250745)"
+       inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=zero&quot;,&quot;1=one&quot;,&quot;2=two&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"><tspan
+         sodipodi:role="line"
+         x="36.419758"
+         y="85.451851"
+         id="tspan47"
+         style="stroke-width:0.64298648"><tspan
+           x="36.419758"
+           y="85.451851"
+           id="tspan45"
+           style="stroke-width:0.64298648">status</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.79939842px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794985"
+       x="9.5558367"
+       y="132.29129"
+       id="text61"
+       transform="scale(1.0366225,0.96467135)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;STATUS&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         x="9.5558367"
+         y="132.29129"
+         id="tspan59"
+         style="stroke-width:0.794985"><tspan
+           x="9.5558367"
+           y="132.29129"
+           id="tspan57"
+           style="stroke-width:0.794985">text</tspan></tspan></text>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot8759"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -109,16 +116,16 @@
          id="flowPara8765">faceplate</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="126.24397"
-       y="40.56007"
+       x="125.71481"
+       y="38.443401"
        id="text38"><tspan
          sodipodi:role="line"
-         x="126.24397"
-         y="40.56007"
+         x="125.71481"
+         y="38.443401"
          id="tspan36"
          style="stroke-width:0.26458332"><tspan
-           x="126.24397"
-           y="40.56007"
+           x="125.71481"
+           y="38.443401"
            id="tspan34"
            style="stroke-width:0.26458332">text</tspan></tspan></text>
   </g>

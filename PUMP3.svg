@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -18,6 +19,18 @@
    sodipodi:docname="PUMP3.svg">
   <defs
      id="defs8713">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4600">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4596" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4598" />
+    </linearGradient>
     <font
        horiz-adv-x="1024"
        id="font3766"
@@ -30,6 +43,17 @@
          d="M0,0h1000v1024h-1000z"
          id="missing-glyph3770" />
     </font>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4600"
+       id="radialGradient4602"
+       cx="76.009894"
+       cy="76.617066"
+       fx="76.009894"
+       fy="76.617066"
+       r="38.20872"
+       gradientTransform="matrix(1,0,0,0.2414133,0,58.120687)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -38,9 +62,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="185.94205"
-     inkscape:cy="1098.9803"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="76.78729"
+     inkscape:cy="820.08053"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,24 +104,24 @@
        cy="47.570419"
        r="20.218601"
        style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#4D4D4D&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#FFFFFF/#0000FF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFA500&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF/#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.71945953px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64298648"
+       style="font-style:normal;font-weight:normal;font-size:25.71945953px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64298648;stroke-opacity:1;"
        x="36.419758"
        y="85.451851"
        id="text49"
        transform="scale(0.88883003,1.1250745)"
-       inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=zero&quot;,&quot;1=one&quot;,&quot;2=two&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"><tspan
+       inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"><tspan
          sodipodi:role="line"
          x="36.419758"
          y="85.451851"
          id="tspan47"
-         style="stroke-width:0.64298648"><tspan
+         style="stroke-width:0.64298648;stroke:none;stroke-opacity:1;"><tspan
            x="36.419758"
            y="85.451851"
            id="tspan45"
-           style="stroke-width:0.64298648">status</tspan></tspan></text>
+           style="stroke-width:0.64298648;stroke:none;stroke-opacity:1;">status</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.79939842px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794985"
@@ -143,5 +167,12 @@
            y="47.552383"
            id="tspan34"
            style="stroke-width:0.63409358">text</tspan></tspan></text>
+    <circle
+       id="pump1-4"
+       cx="52.565342"
+       cy="47.570419"
+       r="2.029289"
+       style="opacity:1;fill:#000000;fill-opacity:0.98910081;stroke:#000000;stroke-width:0.02647444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="" />
   </g>
 </svg>

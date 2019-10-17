@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8791"
    sodipodi:docname="text.svg"
-   inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs8785">
     <inkscape:perspective
@@ -34,15 +34,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-330"
+     inkscape:cx="-651.42857"
      inkscape:cy="560"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8803"
      showgrid="false"
-     inkscape:window-width="1842"
-     inkscape:window-height="872"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
@@ -62,31 +62,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot8793"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="scale(0.26458333)"><flowRegion
-         id="flowRegion8795"><rect
-           id="rect8797"
-           width="237.14285"
-           height="74.285713"
-           x="28.571428"
-           y="51.091114" /></flowRegion><flowPara
-         id="flowPara8799">text</flowPara></flowRoot>    <g
+    <g
        sodipodi:type="inkscape:box3d"
        id="g8803"
        style="opacity:1;fill:#787878;fill-opacity:1;stroke:#000000;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:perspectiveID="#perspective8801"
        inkscape:corner0="2.4724411 : 0.33446755 : 0 : 1"
-       inkscape:corner7="0.27429028 : 0.11361653 : 0.25 : 1">
-      <path
-         sodipodi:type="inkscape:box3dside"
-         id="path8805"
-         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:0.86488503;stroke-linejoin:round"
-         inkscape:box3dsidetype="6"
-         d="M 55.294973,153.19077 70.9346,171.45674 89.32611,156.32686 74.736844,139.28764 Z"
-         points="70.9346,171.45674 89.32611,156.32686 74.736844,139.28764 55.294973,153.19077 " />
+       inkscape:corner7="0.27429028 : 0.11361653 : 0.25 : 1"
+       inkscape:label="g8803">
       <path
          sodipodi:type="inkscape:box3dside"
          id="path8815"
@@ -94,6 +77,13 @@
          inkscape:box3dsidetype="11"
          d="M 74.736844,139.28764 138.99901,29.316155 174.62718,70.927329 89.32611,156.32686 Z"
          points="138.99901,29.316155 174.62718,70.927329 89.32611,156.32686 74.736844,139.28764 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path8805"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:0.86488503;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="M 55.294973,153.19077 70.9346,171.45674 89.32611,156.32686 74.736844,139.28764 Z"
+         points="70.9346,171.45674 89.32611,156.32686 74.736844,139.28764 55.294973,153.19077 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path8807"
@@ -115,7 +105,19 @@
          inkscape:box3dsidetype="14"
          d="M 98.627349,45.627149 141.24533,95.401921 174.62718,70.927329 138.99901,29.316155 Z"
          points="141.24533,95.401921 174.62718,70.927329 138.99901,29.316155 98.627349,45.627149 " />
-      <path
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot8793"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(7.3020188,0,0,0.81863923,-208.63522,-32.354916)"
+         inkscape:label="flowRoot8793"><flowRegion
+           id="flowRegion8795"><rect
+             id="rect8797"
+             width="237.14285"
+             height="74.285713"
+             x="28.571428"
+             y="51.091114" /></flowRegion><flowPara
+           id="flowPara8799">text</flowPara></flowRoot>      <path
          sodipodi:type="inkscape:box3dside"
          id="path8809"
          style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:0.86488503;stroke-linejoin:round"

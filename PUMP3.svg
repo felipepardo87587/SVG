@@ -62,14 +62,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="76.78729"
-     inkscape:cy="820.08053"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="464.55031"
+     inkscape:cy="888.53468"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1842"
-     inkscape:window-height="872"
+     inkscape:window-width="1288"
+     inkscape:window-height="560"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -137,6 +137,45 @@
        id="pump1-4"
        cx="52.565342"
        cy="47.570419"
+       r="2.029289"
+       style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02647444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.22826989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="pump2-4"
+       width="38.52354"
+       height="15.057547"
+       x="150.50471"
+       y="28.62043"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
+    <circle
+       id="pump1-6"
+       cx="153.22025"
+       cy="48.543499"
+       r="20.218601"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.71945953px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64298648;stroke-opacity:1"
+       x="132.22354"
+       y="84.416298"
+       id="text49-9"
+       transform="scale(0.88883003,1.1250745)"
+       inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"><tspan
+         sodipodi:role="line"
+         x="132.22354"
+         y="84.416298"
+         id="tspan47-9"
+         style="stroke:none;stroke-width:0.64298648;stroke-opacity:1"><tspan
+           x="132.22354"
+           y="84.416298"
+           id="tspan45-6"
+           style="stroke:none;stroke-width:0.64298648;stroke-opacity:1">status</tspan></tspan></text>
+    <circle
+       id="pump1-4-1"
+       cx="153.22025"
+       cy="48.543499"
        r="2.029289"
        style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02647444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="" />

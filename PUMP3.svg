@@ -62,9 +62,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="265.29031"
-     inkscape:cy="528.94844"
+     inkscape:zoom="0.35"
+     inkscape:cx="633.10788"
+     inkscape:cy="500.94905"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -197,7 +197,7 @@
        id="rect1517-2-5-7"
        style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71192557" />
     <path
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-57&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;a&quot;,&quot;param&quot;:&quot;-cor-58&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:25,&quot;min&quot;:21,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL $V('%n') !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:5,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL $V('%n') !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="rect1521-2-7-6"
@@ -237,7 +237,7 @@
        id="rect1517-2-5-7-3"
        style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71192557" />
     <path
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-57&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;a&quot;,&quot;param&quot;:&quot;-cor-58&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:25,&quot;min&quot;:21,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL $V('%n') !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:25,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;CT&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL $V('%n') !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="rect1521-2-7-6-3"

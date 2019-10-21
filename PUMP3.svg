@@ -40,8 +40,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="1073.0347"
-     inkscape:cy="-92.207122"
+     inkscape:cx="880.33463"
+     inkscape:cy="-370.1995"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -82,7 +82,7 @@
          id="flowPara8765">faceplate</flowPara></flowRoot>    <g
        id="g1568-6"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=FIT1&quot;,&quot;%a_ll=ALM1&quot;]}"
-       transform="matrix(1.2517912,0,0,0.62200559,-1513.7908,302.25255)">
+       transform="matrix(1.2517912,0,0,0.62200559,-1503.1,302.25255)">
       <rect
          y="-427.39639"
          x="1524.8795"
@@ -126,7 +126,7 @@
     </g>
     <g
        id="g4924"
-       transform="translate(-4.533878,-1.5658457)"
+       transform="translate(6.1569031,-1.5658457)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -208,7 +208,7 @@
     </g>
     <g
        id="g4924-8"
-       transform="translate(117.05849,-1.5658457)"
+       transform="translate(127.74927,-1.5658457)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG58&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -290,7 +290,7 @@
     </g>
     <g
        id="g4924-8-7"
-       transform="translate(234.11698,-1.5658457)"
+       transform="translate(244.80776,-1.5658457)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG59&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -373,19 +373,19 @@
     <text
        id="text4804-4-0-3"
        y="16.991035"
-       x="370.95471"
+       x="381.86267"
        style="font-style:normal;font-weight:normal;font-size:18.19462585px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45486566"
        xml:space="preserve"
        transform="scale(0.98009121,1.0203132)"><tspan
          style="stroke-width:0.45486566"
          y="16.991035"
-         x="370.95471"
+         x="381.86267"
          id="tspan4802-9-4-2"
          sodipodi:role="line">FIT 1</tspan></text>
     <g
        id="g1568-6-4"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=FIT2&quot;]}"
-       transform="matrix(1.2517912,0,0,0.6220056,-1453.3427,302.78172)">
+       transform="matrix(1.2517912,0,0,0.6220056,-1442.6519,302.78172)">
       <rect
          y="-427.39639"
          x="1524.8795"
@@ -430,19 +430,19 @@
     <text
        id="text4804-4-0-3-8"
        y="17.740652"
-       x="435.06488"
+       x="445.97284"
        style="font-style:normal;font-weight:normal;font-size:18.19462585px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45486566"
        xml:space="preserve"
        transform="scale(0.98009121,1.0203132)"><tspan
          style="stroke-width:0.45486566"
          y="17.740652"
-         x="435.06488"
+         x="445.97284"
          id="tspan4802-9-4-2-2"
          sodipodi:role="line">FIT 2</tspan></text>
     <g
        id="g1568-6-5"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=FIT3&quot;]}"
-       transform="matrix(1.2517912,0,0,0.6220056,-1393.4238,302.78172)">
+       transform="matrix(1.2517912,0,0,0.6220056,-1382.733,302.78172)">
       <rect
          y="-427.39639"
          x="1524.8795"
@@ -487,19 +487,19 @@
     <text
        id="text4804-4-0-3-3"
        y="17.740652"
-       x="499.10599"
+       x="510.01395"
        style="font-style:normal;font-weight:normal;font-size:18.19462585px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45486566"
        xml:space="preserve"
        transform="scale(0.98009121,1.0203132)"><tspan
          style="stroke-width:0.45486566"
          y="17.740652"
-         x="499.10599"
+         x="510.01395"
          id="tspan4802-9-4-2-7"
          sodipodi:role="line">FIT 3</tspan></text>
     <g
        id="g1568-6-8"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=DO&quot;]}"
-       transform="matrix(1.2517912,0,0,0.6220056,-1333.5049,302.78172)">
+       transform="matrix(1.2517912,0,0,0.6220056,-1322.8141,302.78172)">
       <rect
          y="-427.39639"
          x="1524.8795"
@@ -544,18 +544,18 @@
     <text
        id="text4804-4-0-3-0"
        y="17.740652"
-       x="572.35547"
+       x="583.26343"
        style="font-style:normal;font-weight:normal;font-size:18.19462585px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45486566"
        xml:space="preserve"
        transform="scale(0.98009121,1.0203132)"><tspan
          style="stroke-width:0.45486566"
          y="17.740652"
-         x="572.35547"
+         x="583.26343"
          id="tspan4802-9-4-2-74"
          sodipodi:role="line">DO</tspan></text>
     <g
        id="g4924-87"
-       transform="translate(-4.533878,127.51659)"
+       transform="translate(6.1569031,127.51659)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -637,7 +637,7 @@
     </g>
     <g
        id="g4924-87-0"
-       transform="translate(124.75483,132.64098)"
+       transform="translate(135.44561,132.64098)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -719,7 +719,7 @@
     </g>
     <g
        id="g4924-87-0-2"
-       transform="translate(-4.533878,257.20635)"
+       transform="translate(6.1569031,257.20635)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -801,7 +801,7 @@
     </g>
     <g
        id="g4924-87-0-2-9"
-       transform="translate(115.27046,257.20635)"
+       transform="translate(125.96124,257.20635)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -883,7 +883,7 @@
     </g>
     <g
        id="g4924-87-0-2-2"
-       transform="translate(352.55372,257.20635)"
+       transform="translate(363.2445,257.20635)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -965,7 +965,7 @@
     </g>
     <g
        id="g4924-87-0-2-6"
-       transform="translate(233.91209,257.20635)"
+       transform="translate(244.60287,257.20635)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -1047,7 +1047,7 @@
     </g>
     <g
        id="g4924-87-0-2-1"
-       transform="translate(-8.8101905,444.77428)"
+       transform="translate(6.1569031,444.77428)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -1134,7 +1134,7 @@
     </g>
     <g
        id="g4924-87-0-2-1-6"
-       transform="translate(111.30119,444.77428)"
+       transform="translate(121.99197,444.77428)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -1221,7 +1221,7 @@
     </g>
     <g
        id="g4924-87-0-2-1-4"
-       transform="translate(232.10701,444.77428)"
+       transform="translate(242.79779,444.77428)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -1308,7 +1308,7 @@
     </g>
     <g
        id="g4924-87-0-2-1-2"
-       transform="translate(349.70561,444.77428)"
+       transform="translate(360.39639,444.77428)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -1395,7 +1395,7 @@
     </g>
     <g
        id="g4924-87-0-2-1-3"
-       transform="translate(-10.226492,651.10635)"
+       transform="translate(6.1569031,651.10635)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -1482,7 +1482,7 @@
     </g>
     <g
        id="g4924-87-0-2-1-6-2"
-       transform="translate(109.8849,651.10635)"
+       transform="translate(120.57568,651.10635)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -1569,7 +1569,7 @@
     </g>
     <g
        id="g4924-87-0-2-1-4-7"
-       transform="translate(230.69072,651.10635)"
+       transform="translate(241.3815,651.10635)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -1658,7 +1658,7 @@
        xml:space="preserve"
        id="flowRoot5973"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.2242767,0,0,1.2242767,1.3102064,-1358.2633)"
+       transform="matrix(1.2242767,0,0,1.2242767,12.000987,-1358.2633)"
        inkscape:label=""><flowRegion
          id="flowRegion5975"><rect
            id="rect5977"
@@ -1670,7 +1670,7 @@
        xml:space="preserve"
        id="flowRoot5973-4"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.2242767,0,0,1.2242767,-0.23395172,-1160.8276)"
+       transform="matrix(1.2242767,0,0,1.2242767,10.456829,-1160.8276)"
        inkscape:label=""><flowRegion
          id="flowRegion5975-2"><rect
            id="rect5977-8"
@@ -1681,7 +1681,7 @@
          id="flowPara5979-6">Secondary Clarifier</flowPara></flowRoot>    <g
        id="g5500-1"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=FIT1&quot;]}"
-       transform="matrix(1.7866157,0,0,1.7866157,-1533.9577,528.48076)">
+       transform="matrix(1.7866157,0,0,1.7866157,-1523.2669,528.48076)">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;!ILIM%n&quot;}"
          y="87.611588"
@@ -1886,5 +1886,16 @@
          width="2400"
          height="1500" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="313.2399"
+       y="395.35519"
+       id="text6081"><tspan
+         sodipodi:role="line"
+         id="tspan6079"
+         x="313.2399"
+         y="395.35519"
+         style="stroke-width:0.26458332">Int. Clarifier</tspan></text>
   </g>
 </svg>

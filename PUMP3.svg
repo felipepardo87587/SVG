@@ -39,11 +39,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="511.96342"
-     inkscape:cy="805.30903"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="631.12044"
+     inkscape:cy="858.91751"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4924"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1842"
      inkscape:window-height="872"
@@ -67,143 +67,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g4924"
-       transform="translate(0,-0.80180858)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;]}">
-      <rect
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
-         y="28.235468"
-         x="39.072906"
-         height="17.304689"
-         width="42.527393"
-         id="pump2"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.25711337;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.29710504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         cy="51.131794"
-         cx="42.070663"
-         id="pump1"
-         rx="22.319973"
-         ry="23.235964" />
-      <text
-         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
-         transform="scale(0.99126484,1.0088121)"
-         id="text49"
-         y="90.655426"
-         x="4.712985"
-         style="font-style:normal;font-weight:normal;font-size:12.91192245px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32279807;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke:none;stroke-width:0.32279807;stroke-opacity:1"
-           id="tspan47"
-           y="90.655426"
-           x="4.712985"
-           sodipodi:role="line">Maintenance<tspan
-   style="stroke:none;stroke-width:0.32279807;stroke-opacity:1"
-   id="tspan45"
-   y="90.655426"
-   x="4.712985" /></tspan></text>
-      <ellipse
-         inkscape:label=""
-         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02981967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         cy="51.131794"
-         cx="42.070663"
-         id="pump1-4"
-         rx="2.2401984"
-         ry="2.3321338" />
-      <text
-         id="text4804"
-         y="18.887527"
-         x="12.663376"
-         style="font-style:normal;font-weight:normal;font-size:15.31153679px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38278842"
-         xml:space="preserve"
-         transform="scale(0.98009121,1.0203132)"><tspan
-           style="stroke-width:0.38278842"
-           y="18.887527"
-           x="12.663376"
-           id="tspan4802"
-           sodipodi:role="line">Blower 1</tspan></text>
-      <g
-         transform="matrix(0.39397401,0,0,0.47232499,148.41015,178.24813)"
-         id="g7517-8-2-6-4"
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;%a&quot;}">
-        <path
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           sodipodi:nodetypes="cccc"
-           inkscape:connector-curvature="0"
-           id="almshape1-8-4-6-5-1"
-           d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
-           style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           id="almshapetext-5-7-0-0-7-2"
-           y="-222.63782"
-           x="-185"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="-222.63782"
-             x="-185"
-             id="tspan7330-0-1-1-7-1-5-0"
-             sodipodi:role="line"
-             style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g4914"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG58&quot;]}"
-       transform="matrix(1.1039326,0,0,1.1492369,-0.61546107,-0.96098149)">
-      <rect
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}"
-         y="24.567644"
-         x="131.57124"
-         height="15.057547"
-         width="38.52354"
-         id="pump2-8"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.22826989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="20.218601"
-         cy="44.490711"
-         cx="134.28677"
-         id="pump1-5" />
-      <text
-         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"
-         transform="scale(1.0114006,0.98872791)"
-         id="text49-1"
-         y="80.484261"
-         x="99.277115"
-         style="font-style:normal;font-weight:normal;font-size:11.46343708px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28658593;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke:none;stroke-width:0.28658593;stroke-opacity:1"
-           id="tspan47-7"
-           y="80.484261"
-           x="99.277115"
-           sodipodi:role="line">Maintenance<tspan
-   style="stroke:none;stroke-width:0.28658593;stroke-opacity:1"
-   id="tspan45-9"
-   y="80.484261"
-   x="99.277115" /></tspan></text>
-      <circle
-         inkscape:label=""
-         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02647444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="2.029289"
-         cy="44.490711"
-         cx="134.28677"
-         id="pump1-4-14" />
-      <text
-         id="text4804-08"
-         y="16.767447"
-         x="107.41973"
-         style="font-style:normal;font-weight:normal;font-size:13.59385777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33984643"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.33984643"
-           y="16.767447"
-           x="107.41973"
-           id="tspan4802-7"
-           sodipodi:role="line">Blower 2</tspan></text>
-    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8759"
@@ -361,6 +224,252 @@
          xlink:href="#rect1521-2-7-9"
          y="0"
          x="0" />
+    </g>
+    <g
+       id="g4924"
+       transform="translate(0,-1.5658457)"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;]}">
+      <rect
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
+         y="32.188606"
+         x="45.315113"
+         height="20.56308"
+         width="50.535099"
+         id="pump2"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.30552658;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.3530485;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cy="59.396202"
+         cx="48.877335"
+         id="pump1"
+         rx="26.522717"
+         ry="27.611185" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
+         transform="scale(0.99126486,1.0088121)"
+         id="text49"
+         y="106.37385"
+         x="4.4755578"
+         style="font-style:normal;font-weight:normal;font-size:15.34317589px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+           id="tspan47"
+           y="106.37385"
+           x="4.4755578"
+           sodipodi:role="line">Maintenance<tspan
+   style="stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+   id="tspan45"
+   y="106.37385"
+   x="4.4755578" /></tspan></text>
+      <ellipse
+         inkscape:label=""
+         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.03543457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cy="59.396202"
+         cx="48.877335"
+         id="pump1-4"
+         rx="2.6620171"
+         ry="2.7712634" />
+      <text
+         id="text4804"
+         y="21.107637"
+         x="13.910146"
+         style="font-style:normal;font-weight:normal;font-size:18.19462585px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45486566"
+         xml:space="preserve"
+         transform="scale(0.98009121,1.0203132)"><tspan
+           style="stroke-width:0.45486566"
+           y="21.107637"
+           x="13.910146"
+           id="tspan4802"
+           sodipodi:role="line">Blower 1</tspan></text>
+      <g
+         transform="matrix(0.46815743,0,0,0.56126153,175.24004,210.44793)"
+         id="g7517-8-2-6-4"
+         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;%a&quot;}">
+        <path
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="almshape1-8-4-6-5-1"
+           d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
+           style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+           id="almshapetext-5-7-0-0-7-2"
+           y="-222.63782"
+           x="-185"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="-222.63782"
+             x="-185"
+             id="tspan7330-0-1-1-7-1-5-0"
+             sodipodi:role="line"
+             style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4924-8"
+       transform="translate(117.05849,-1.5658457)"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG58&quot;]}">
+      <rect
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
+         y="32.188606"
+         x="45.315113"
+         height="20.56308"
+         width="50.535099"
+         id="pump2-9"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.30552658;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.3530485;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cy="59.396202"
+         cx="48.877335"
+         id="pump1-3"
+         rx="26.522717"
+         ry="27.611185" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
+         transform="scale(0.99126486,1.0088121)"
+         id="text49-7"
+         y="106.37385"
+         x="4.4755578"
+         style="font-style:normal;font-weight:normal;font-size:15.34317589px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+           id="tspan47-9"
+           y="106.37385"
+           x="4.4755578"
+           sodipodi:role="line">Maintenance<tspan
+   style="stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+   id="tspan45-6"
+   y="106.37385"
+   x="4.4755578" /></tspan></text>
+      <ellipse
+         inkscape:label=""
+         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.03543457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cy="59.396202"
+         cx="48.877335"
+         id="pump1-4-3"
+         rx="2.6620171"
+         ry="2.7712634" />
+      <text
+         id="text4804-4"
+         y="21.107637"
+         x="13.910146"
+         style="font-style:normal;font-weight:normal;font-size:18.19462585px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45486566"
+         xml:space="preserve"
+         transform="scale(0.98009121,1.0203132)"><tspan
+           style="stroke-width:0.45486566"
+           y="21.107637"
+           x="13.910146"
+           id="tspan4802-9"
+           sodipodi:role="line">Blower 2</tspan></text>
+      <g
+         transform="matrix(0.46815743,0,0,0.56126153,175.24004,210.44793)"
+         id="g7517-8-2-6-4-4"
+         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;%a&quot;}">
+        <path
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="almshape1-8-4-6-5-1-1"
+           d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
+           style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+           id="almshapetext-5-7-0-0-7-2-0"
+           y="-222.63782"
+           x="-185"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="-222.63782"
+             x="-185"
+             id="tspan7330-0-1-1-7-1-5-0-5"
+             sodipodi:role="line"
+             style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4924-8-7"
+       transform="translate(234.11698,-1.5658457)"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG59&quot;]}">
+      <rect
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
+         y="32.188606"
+         x="45.315113"
+         height="20.56308"
+         width="50.535099"
+         id="pump2-9-1"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.30552658;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.3530485;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cy="59.396202"
+         cx="48.877335"
+         id="pump1-3-5"
+         rx="26.522717"
+         ry="27.611185" />
+      <text
+         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
+         transform="scale(0.99126486,1.0088121)"
+         id="text49-7-1"
+         y="106.37385"
+         x="4.4755578"
+         style="font-style:normal;font-weight:normal;font-size:15.34317589px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+           id="tspan47-9-9"
+           y="106.37385"
+           x="4.4755578"
+           sodipodi:role="line">Maintenance<tspan
+   style="stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+   id="tspan45-6-6"
+   y="106.37385"
+   x="4.4755578" /></tspan></text>
+      <ellipse
+         inkscape:label=""
+         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.03543457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cy="59.396202"
+         cx="48.877335"
+         id="pump1-4-3-0"
+         rx="2.6620171"
+         ry="2.7712634" />
+      <text
+         id="text4804-4-0"
+         y="21.107637"
+         x="13.910146"
+         style="font-style:normal;font-weight:normal;font-size:18.19462585px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45486566"
+         xml:space="preserve"
+         transform="scale(0.98009121,1.0203132)"><tspan
+           style="stroke-width:0.45486566"
+           y="21.107637"
+           x="13.910146"
+           id="tspan4802-9-4"
+           sodipodi:role="line">Blower 3</tspan></text>
+      <g
+         transform="matrix(0.46815743,0,0,0.56126153,175.24004,210.44793)"
+         id="g7517-8-2-6-4-4-9"
+         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;%a&quot;}">
+        <path
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="almshape1-8-4-6-5-1-1-9"
+           d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
+           style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+           id="almshapetext-5-7-0-0-7-2-0-2"
+           y="-222.63782"
+           x="-185"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="-222.63782"
+             x="-185"
+             id="tspan7330-0-1-1-7-1-5-0-5-1"
+             sodipodi:role="line"
+             style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
+      </g>
     </g>
   </g>
 </svg>

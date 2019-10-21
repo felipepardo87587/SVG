@@ -72,59 +72,62 @@
        transform="translate(0,-0.80180858)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;]}">
       <rect
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}"
-         y="25.509195"
-         x="35.951801"
-         height="15.057547"
-         width="38.52354"
-         id="pump2"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.22826988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="20.218601"
-         cy="45.432262"
-         cx="38.667328"
-         id="pump1" />
+         y="28.235468"
+         x="39.072906"
+         height="17.304689"
+         width="42.527393"
+         id="pump2"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.25711337;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.29710504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cy="51.131794"
+         cx="42.070663"
+         id="pump1"
+         rx="22.319973"
+         ry="23.235964" />
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
-         transform="scale(1.0114006,0.98872791)"
+         transform="scale(0.99126484,1.0088121)"
          id="text49"
-         y="81.436546"
-         x="4.7355051"
-         style="font-style:normal;font-weight:normal;font-size:11.46343708px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28658593;stroke-opacity:1"
+         y="90.655426"
+         x="4.712985"
+         style="font-style:normal;font-weight:normal;font-size:12.91192245px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32279807;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="stroke:none;stroke-width:0.28658593;stroke-opacity:1"
+           style="stroke:none;stroke-width:0.32279807;stroke-opacity:1"
            id="tspan47"
-           y="81.436546"
-           x="4.7355051"
+           y="90.655426"
+           x="4.712985"
            sodipodi:role="line">Maintenance<tspan
-   style="stroke:none;stroke-width:0.28658593;stroke-opacity:1"
+   style="stroke:none;stroke-width:0.32279807;stroke-opacity:1"
    id="tspan45"
-   y="81.436546"
-   x="4.7355051" /></tspan></text>
-      <circle
+   y="90.655426"
+   x="4.712985" /></tspan></text>
+      <ellipse
          inkscape:label=""
-         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02647444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="2.029289"
-         cy="45.432262"
-         cx="38.667328"
-         id="pump1-4" />
+         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02981967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cy="51.131794"
+         cx="42.070663"
+         id="pump1-4"
+         rx="2.2401984"
+         ry="2.3321338" />
       <text
          id="text4804"
-         y="17.708998"
-         x="11.800289"
-         style="font-style:normal;font-weight:normal;font-size:13.59385777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33984643"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.33984643"
-           y="17.708998"
-           x="11.800289"
+         y="18.887527"
+         x="12.663376"
+         style="font-style:normal;font-weight:normal;font-size:15.31153679px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38278842"
+         xml:space="preserve"
+         transform="scale(0.98009121,1.0203132)"><tspan
+           style="stroke-width:0.38278842"
+           y="18.887527"
+           x="12.663376"
            id="tspan4802"
            sodipodi:role="line">Blower 1</tspan></text>
       <g
-         transform="matrix(0.3568823,0,0,0.41099009,134.99521,156.0416)"
+         transform="matrix(0.39397401,0,0,0.47232499,148.41015,178.24813)"
          id="g7517-8-2-6-4"
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=ALM1&quot;]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;notrace&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}">
+         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;%a&quot;}">
         <path
            inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
            sodipodi:nodetypes="cccc"
@@ -148,7 +151,8 @@
     </g>
     <g
        id="g4914"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG58&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG58&quot;]}"
+       transform="matrix(1.1039326,0,0,1.1492369,-0.61546107,-0.96098149)">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}"
          y="24.567644"

@@ -62,14 +62,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="633.10788"
-     inkscape:cy="500.94905"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="692.74497"
+     inkscape:cy="658.81832"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1288"
-     inkscape:window-height="560"
+     inkscape:window-width="1842"
+     inkscape:window-height="872"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -172,13 +172,14 @@
            y="83.466072"
            id="tspan45-6"
            style="stroke:none;stroke-width:0.64298648;stroke-opacity:1">status</tspan></tspan></text>
-    <circle
+    <ellipse
        id="pump1-4-1"
        cx="153.22025"
-       cy="48.543499"
-       r="2.029289"
-       style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02647444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:label="" />
+       cy="47.787548"
+       style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02100798;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label=""
+       rx="2.0320222"
+       ry="1.2760699" />
     <rect
        y="117.90772"
        x="28.268412"
@@ -251,13 +252,52 @@
        width="9.4974918"
        id="rect1517-1-1-6-4-9"
        style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71192557" />
-    <use
-       height="1500"
-       width="2400"
-       transform="translate(5.1375143e-5,-69.216812)"
-       id="use1544-6-1-3-6"
-       xlink:href="#rect1521-2-7-6-3"
-       y="0"
-       x="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2282699;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="pump2-4-7"
+       width="38.52354"
+       height="15.057547"
+       x="155.73189"
+       y="135.61884"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
+    <circle
+       id="pump1-6-3"
+       cx="163.79282"
+       cy="154.47282"
+       r="20.218601"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.2637752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;4&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;STATUS&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;STATUS&quot;}]}" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.71945953px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64298648;stroke-opacity:1"
+       x="144.11847"
+       y="178.56947"
+       id="text49-9-1"
+       transform="scale(0.88883003,1.1250745)"
+       inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;STATUS&quot;}"><tspan
+         sodipodi:role="line"
+         x="144.11847"
+         y="178.56947"
+         id="tspan47-9-0"
+         style="stroke:none;stroke-width:0.64298648;stroke-opacity:1"><tspan
+           x="144.11847"
+           y="178.56947"
+           id="tspan45-6-3"
+           style="stroke:none;stroke-width:0.64298648;stroke-opacity:1">status</tspan></tspan></text>
+    <ellipse
+       id="pump1-4-1-5"
+       cx="158.44742"
+       cy="154.78595"
+       style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.02100798;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label=""
+       rx="2.0320222"
+       ry="1.2760699" />
+    <path
+       style="fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71192557"
+       d="m 81.436178,113.64026 18.995002,5.33654 v 0 l -18.995002,5.33655 z"
+       id="path4692"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:25,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;CT&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL $V('%n') !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}" />
   </g>
 </svg>

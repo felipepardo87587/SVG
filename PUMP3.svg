@@ -361,5 +361,63 @@
            sodipodi:role="line"
            style="font-size:14px;line-height:1">23</tspan></text>
     </g>
+    <rect
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-55&quot;,&quot;tag&quot;:&quot;%n&quot;}]}"
+       style="fill:#00cfcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5683955"
+       id="rect1519-3-8-7"
+       width="8.0634222"
+       height="52.086498"
+       x="90.266098"
+       y="214.94757" />
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5683955"
+       id="rect1517-2-5-9"
+       width="8.0634222"
+       height="26.043249"
+       x="-98.329521"
+       y="-267.03412"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:23,&quot;min&quot;:21,&quot;tag&quot;:&quot;!ILIM%n&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-56&quot;,&quot;tag&quot;:&quot;%n&quot;}]}"
+       transform="scale(-1)" />
+    <path
+       style="fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5683955"
+       d="m 74.139237,263.02744 16.126845,4.00666 v 0 l -16.126845,4.00665 z"
+       id="rect1521-2-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-57&quot;,&quot;tag&quot;:&quot;TAG2&quot;},{&quot;data&quot;:&quot;a&quot;,&quot;param&quot;:&quot;-cor-58&quot;,&quot;tag&quot;:&quot;TAG2&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:25,&quot;min&quot;:21,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;TAG2&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL $V('%n') !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}" />
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5683955"
+       id="rect1517-1-1-6-5"
+       width="8.0634222"
+       height="26.043249"
+       x="90.266098"
+       y="214.94757"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:23,&quot;min&quot;:25,&quot;tag&quot;:&quot;!SLIM%n&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-56&quot;,&quot;tag&quot;:&quot;%n&quot;}]}" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1521-2-7-8"
+       id="use1544-6-1-0"
+       transform="translate(1.7327744e-5,-51.967643)"
+       width="2400"
+       height="1500" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.82074594px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5683955"
+       x="67.039482"
+       y="389.6188"
+       id="text1779-5-1-1"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;linename_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+       transform="scale(1.4186289,0.70490598)"><tspan
+         style="font-size:7.9575367px;line-height:1;stroke-width:0.5683955"
+         sodipodi:role="line"
+         id="tspan1781-4-2-9"
+         x="67.039482"
+         y="389.6188">kV</tspan><tspan
+         style="font-size:7.9575367px;line-height:1;stroke-width:0.5683955"
+         sodipodi:role="line"
+         x="67.039482"
+         y="397.57635"
+         id="tspan1783-3-3-2">23</tspan></text>
   </g>
 </svg>

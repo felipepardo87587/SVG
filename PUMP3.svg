@@ -44,11 +44,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="987.99783"
-     inkscape:cy="3967.0449"
+     inkscape:zoom="0.35"
+     inkscape:cx="633.48354"
+     inkscape:cy="3874.7873"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4924-8-7-2"
      showgrid="false"
      inkscape:window-width="1842"
      inkscape:window-height="872"
@@ -147,27 +147,7 @@
       <g
          transform="matrix(0.46815743,0,0,0.56126153,175.24004,210.44793)"
          id="g7517-8-2-6-4"
-         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;%a&quot;}">
-        <path
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           sodipodi:nodetypes="cccc"
-           inkscape:connector-curvature="0"
-           id="almshape1-8-4-6-5-1"
-           d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
-           style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           id="almshapetext-5-7-0-0-7-2"
-           y="-222.63782"
-           x="-185"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="-222.63782"
-             x="-185"
-             id="tspan7330-0-1-1-7-1-5-0"
-             sodipodi:role="line"
-             style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
-      </g>
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;%a&quot;}" />
     </g>
     <g
        id="g4924-8"
@@ -226,30 +206,6 @@
            x="13.910146"
            id="tspan4802-9"
            sodipodi:role="line">Blower 2</tspan></text>
-      <g
-         transform="matrix(0.46815743,0,0,0.56126153,175.24004,210.44793)"
-         id="g7517-8-2-6-4-4"
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;%a&quot;}">
-        <path
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           sodipodi:nodetypes="cccc"
-           inkscape:connector-curvature="0"
-           id="almshape1-8-4-6-5-1-1"
-           d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
-           style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           id="almshapetext-5-7-0-0-7-2-0"
-           y="-222.63782"
-           x="-185"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="-222.63782"
-             x="-185"
-             id="tspan7330-0-1-1-7-1-5-0-5"
-             sodipodi:role="line"
-             style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
-      </g>
     </g>
     <g
        id="g4924-8-7"
@@ -308,30 +264,6 @@
            x="13.910146"
            id="tspan4802-9-4"
            sodipodi:role="line">Blower 3</tspan></text>
-      <g
-         transform="matrix(0.46815743,0,0,0.56126153,175.24004,210.44793)"
-         id="g7517-8-2-6-4-4-9"
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;%a&quot;}">
-        <path
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           sodipodi:nodetypes="cccc"
-           inkscape:connector-curvature="0"
-           id="almshape1-8-4-6-5-1-1-9"
-           d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
-           style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           id="almshapetext-5-7-0-0-7-2-0-2"
-           y="-222.63782"
-           x="-185"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="-222.63782"
-             x="-185"
-             id="tspan7330-0-1-1-7-1-5-0-5-1"
-             sodipodi:role="line"
-             style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
-      </g>
     </g>
     <g
        id="g6314"
@@ -1997,30 +1929,6 @@
            x="13.910146"
            id="tspan4802-9-4-26"
            sodipodi:role="line">Blower 4</tspan></text>
-      <g
-         transform="matrix(0.46815743,0,0,0.56126153,175.24004,210.44793)"
-         id="g7517-8-2-6-4-4-9-0"
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;%a&quot;}">
-        <path
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           sodipodi:nodetypes="cccc"
-           inkscape:connector-curvature="0"
-           id="almshape1-8-4-6-5-1-1-9-0"
-           d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
-           style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           id="almshapetext-5-7-0-0-7-2-0-2-7"
-           y="-222.63782"
-           x="-185"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="-222.63782"
-             x="-185"
-             id="tspan7330-0-1-1-7-1-5-0-5-1-2"
-             sodipodi:role="line"
-             style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
-      </g>
     </g>
   </g>
 </svg>

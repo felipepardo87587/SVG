@@ -18,25 +18,29 @@
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
    sodipodi:docname="PUMP3.svg">
   <defs
-     id="defs8713">
-    <font
-       horiz-adv-x="1024"
-       id="font3766"
-       inkscape:label="font 1"
-       horiz-origin-x="0"
-       horiz-origin-y="0"
-       vert-origin-x="45"
-       vert-origin-y="90"
-       vert-adv-y="90">
-      <font-face
-         units-per-em="1024"
-         id="font-face3768"
-         font-family="SVGFont 1" />
-      <missing-glyph
-         d="M0,0h1000v1024h-1000z"
-         id="missing-glyph3770" />
-    </font>
-  </defs>
+     id="defs8713"><font
+   horiz-adv-x="1024"
+   id="font3766"
+   inkscape:label="font 1"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="45"
+   vert-origin-y="90"
+   vert-adv-y="90">
+  <font-face
+     units-per-em="1024"
+     id="font-face3768"
+     font-family="SVGFont 1" />
+  <missing-glyph
+     d="M0,0h1000v1024h-1000z"
+     id="missing-glyph3770" />
+</font>
+
+	
+	
+	
+	
+</defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#999999"
@@ -44,11 +48,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="633.48354"
-     inkscape:cy="1589.073"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="2252.4519"
+     inkscape:cy="3791.5228"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4924-87-0-2-1-4-7-2"
+     inkscape:current-layer="g6567"
      showgrid="false"
      inkscape:window-width="1842"
      inkscape:window-height="872"
@@ -1549,6 +1553,139 @@
            x="13.910146"
            id="tspan4802-9-4-26"
            sodipodi:role="line">Blower 4</tspan></text>
+    </g>
+    <g
+       id="g6363"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6365"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6367"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6369"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6371"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6373"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6375"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6377"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6379"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6381"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6383"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6385"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6387"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6389"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6391"
+       transform="matrix(0.26458333,0,0,0.26458333,523.6735,-719.95748)">
+</g>
+    <g
+       id="g6555"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG61&quot;]}">
+      <g
+         id="g6567"
+         transform="translate(8.5526249,-1.0690781)"
+         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG61&quot;]}">
+        <g
+           id="g6450"
+           inkscape:label=""
+           transform="matrix(0.70236508,0,0,0.70236508,150.44987,-296.60351)">
+          <path
+             style="stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="m 566.6593,-683.69581 c 2.04575,-1.88356 10.38965,-10.10496 9.74883,-18.35864 -0.54425,-7.0014 -8.63335,-9.10854 -13.11936,-9.10854 -4.48628,0 -12.55818,2.10714 -13.10217,9.10854 -0.62785,8.08673 7.38214,16.14329 9.63348,18.2372 0.86175,-0.8599 2.05079,-1.39171 3.36444,-1.39171 1.3724,0 2.60588,0.58394 3.47478,1.51315 z"
+             id="path6353"
+             inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}" />
+          <path
+             inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
+             style="stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="m 558.42176,-680.44646 c 0,-0.79983 0.19949,-1.55231 0.54769,-2.2143 -2.95514,-0.90355 -13.911,-3.78724 -20.59094,0.79375 -5.79173,3.97193 -3.57161,12.03034 -1.32847,15.91575 2.2434,3.88514 8.10366,9.82186 14.43911,6.79238 6.74343,-3.225 9.79619,-12.79048 10.77224,-16.61636 -2.18837,-0.43021 -3.83963,-2.35691 -3.83963,-4.67122 z"
+             id="path6355" />
+          <path
+             style="stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="m 587.9863,-681.73471 c -6.62861,-4.54581 -17.47203,-1.73064 -20.52743,-0.80116 0.30929,0.63156 0.48789,1.33905 0.48789,2.08941 0,2.33045 -1.67481,4.26641 -3.88567,4.67836 0.93821,3.72428 3.9878,13.47735 10.81458,16.74152 6.33518,3.03 12.2047,-2.9218 14.44783,-6.80747 2.24314,-3.88488 4.45426,-11.92847 -1.3372,-15.90066 z"
+             id="path6357"
+             inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}" />
+          <path
+             style="stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             d="m 563.18452,-719.95748 c -21.78658,0 -39.51102,17.72444 -39.51102,39.51102 0,21.78659 17.72444,39.51102 39.51102,39.51102 21.78659,0 39.51102,-17.72443 39.51102,-39.51102 0,-21.78658 -17.72443,-39.51102 -39.51102,-39.51102 z m 0,74.78871 c -19.45243,0 -35.27769,-15.82526 -35.27769,-35.27769 0,-19.45243 15.82526,-35.27769 35.27769,-35.27769 19.45243,0 35.27769,15.82553 35.27769,35.27769 0,19.45217 -15.82552,35.27769 -35.27769,35.27769 z"
+             id="path6359" />
+        </g>
+        <text
+           id="text4804-4-0-2-8"
+           y="-817.39594"
+           x="556.47516"
+           style="font-style:normal;font-weight:normal;font-size:16.55951309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41398785"
+           xml:space="preserve"
+           transform="scale(0.98009121,1.0203132)"><tspan
+             style="font-size:12.84297562px;text-align:center;text-anchor:middle;stroke-width:0.41398785"
+             y="-817.39594"
+             x="558.73273"
+             id="tspan4802-9-4-26-1"
+             sodipodi:role="line">Mixing </tspan><tspan
+             style="stroke-width:0.41398785"
+             y="-796.69653"
+             x="558.73273"
+             sodipodi:role="line"
+             id="tspan6569"><tspan
+               style="font-size:12.84297562px;text-align:center;text-anchor:middle;stroke-width:0.41398785"
+               id="tspan6573">Blower 1 </tspan></tspan></text>
+        <text
+           inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
+           transform="scale(0.99126488,1.0088121)"
+           id="text49-7-1-6-9"
+           y="-720.62457"
+           x="501.90115"
+           style="font-style:normal;font-weight:normal;font-size:15.34317589px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+             id="tspan47-9-9-0-9"
+             y="-720.62457"
+             x="501.90115"
+             sodipodi:role="line">Maintenance<tspan
+   style="stroke:none;stroke-width:0.3835794;stroke-opacity:1"
+   id="tspan45-6-6-4-0"
+   y="-720.62457"
+   x="501.90115" /></tspan></text>
+      </g>
     </g>
   </g>
 </svg>

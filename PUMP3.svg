@@ -1266,19 +1266,7 @@
              y="17.881905"
              style="stroke-width:0.31430325">Return Pump 4</tspan></text>
       </g>
-      <flowRoot
-         inkscape:label=""
-         transform="matrix(1.2242767,0,0,1.2242767,29.258191,-2089.0344)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot5973"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5975"><rect
-             y="1409.403"
-             x="-4.0406103"
-             height="101.01525"
-             width="1721.2999"
-             id="rect5977" /></flowRegion><flowPara
-           id="flowPara5979">Secondary Clarifier</flowPara></flowRoot>    </g>
+    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5973-4"
@@ -1856,15 +1844,15 @@
     </g>
     <text
        id="text6846"
-       y="-61.550854"
-       x="99.06115"
-       style="font-style:normal;font-weight:normal;font-size:12.5721302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31430325"
+       y="-311.73245"
+       x="36.256042"
+       style="font-style:normal;font-weight:normal;font-size:32.71417999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81785452"
        xml:space="preserve"
-       transform="matrix(0.9800912,0,0,1.0203132,377.6536,-285.99676)"><tspan
-         style="stroke-width:0.31430325"
-         y="-61.550854"
-         x="99.06115"
+       transform="scale(0.98009121,1.0203132)"><tspan
+         style="stroke-width:0.81785452"
+         y="-311.73245"
+         x="36.256042"
          sodipodi:role="line"
-         id="tspan6844">Title</tspan></text>
+         id="tspan6844">Secondary Clarifier</tspan></text>
   </g>
 </svg>

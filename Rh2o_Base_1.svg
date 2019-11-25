@@ -99,9 +99,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="506.62364"
-     inkscape:cy="3382.9472"
+     inkscape:zoom="0.175"
+     inkscape:cx="1445.533"
+     inkscape:cy="2595.6435"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2227,43 +2227,6 @@
          x="1011.3683"
          y="-869.90265"
          style="stroke-width:0.37396449">Alarms Summary</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.32255459px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806385"
-       x="536.31183"
-       y="-592.83173"
-       id="text3069-5"><tspan
-         sodipodi:role="line"
-         id="tspan3067-6"
-         x="536.31183"
-         y="-592.83173"
-         style="stroke-width:0.35806385">H </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.32255459px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="536.31183"
-       y="-623.38812"
-       id="text3069-9-5"><tspan
-         sodipodi:role="line"
-         id="tspan3067-4-9"
-         x="536.31183"
-         y="-623.38812"
-         style="stroke-width:0.35806388">HH </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3175503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3089-7"
-       cx="572.83533"
-       cy="-626.75537"
-       rx="7.3662076"
-       ry="7.0459371"
-       inkscape:label="{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;95&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;SPS1_Level&quot;}]}" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.3175503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-30"
-       cx="572.83533"
-       cy="-596.89148"
-       rx="7.3662076"
-       ry="6.725667" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6859-0"
@@ -2275,43 +2238,7 @@
            height="58.588848"
            x="96.97464"
            y="990.78107" /></flowRegion><flowPara
-         id="flowPara6865-8">Level</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.32255459px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="536.31183"
-       y="-562.27539"
-       id="text3069-1-5"><tspan
-         sodipodi:role="line"
-         id="tspan3067-40-1"
-         x="536.31183"
-         y="-562.27539"
-         style="stroke-width:0.35806388">L </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.3175503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-3-2"
-       cx="572.83533"
-       cy="-567.02759"
-       rx="7.3662076"
-       ry="6.725667" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.32255459px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="536.31183"
-       y="-531.71899"
-       id="text3069-4-1"><tspan
-         sodipodi:role="line"
-         id="tspan3067-0-5"
-         x="536.31183"
-         y="-531.71899"
-         style="stroke-width:0.35806388">LL </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.3175503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-2-6"
-       cx="572.83533"
-       cy="-537.16357"
-       rx="7.3662076"
-       ry="6.725667" />
-    <flowRoot
+         id="flowPara6865-8">Level</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7065"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2358,79 +2285,6 @@
            y="3196.9543" /></flowRegion><flowPara
          id="flowPara7085">Total</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.32255554px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806385"
-       x="538.50964"
-       y="-194.87234"
-       id="text3069-5-8"><tspan
-         sodipodi:role="line"
-         id="tspan3067-6-6"
-         x="538.50964"
-         y="-194.87234"
-         style="stroke-width:0.35806385">H </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.32255554px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="538.50964"
-       y="-225.42873"
-       id="text3069-9-5-1"><tspan
-         sodipodi:role="line"
-         id="tspan3067-4-9-8"
-         x="538.50964"
-         y="-225.42873"
-         style="stroke-width:0.35806388">HH </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3089-7-8"
-       cx="575.03314"
-       cy="-228.79597"
-       rx="7.3662076"
-       ry="7.0459371"
-       inkscape:label="{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;95&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;SPS1_Level&quot;}]}" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-30-6"
-       cx="575.03314"
-       cy="-198.9321"
-       rx="7.3662076"
-       ry="6.725667" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.32255554px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="538.50964"
-       y="-164.31601"
-       id="text3069-1-5-7"><tspan
-         sodipodi:role="line"
-         id="tspan3067-40-1-9"
-         x="538.50964"
-         y="-164.31601"
-         style="stroke-width:0.35806388">L </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-3-2-7"
-       cx="575.03314"
-       cy="-169.06821"
-       rx="7.3662076"
-       ry="6.725667" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.32255554px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="538.50964"
-       y="-133.75961"
-       id="text3069-4-1-8"><tspan
-         sodipodi:role="line"
-         id="tspan3067-0-5-8"
-         x="538.50964"
-         y="-133.75961"
-         style="stroke-width:0.35806388">LL </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-2-6-4"
-       cx="575.03314"
-       cy="-139.20419"
-       rx="7.3662076"
-       ry="6.725667" />
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:28.40775108px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71019375"
        x="587.7561"
        y="-258.30835"
@@ -2462,79 +2316,6 @@
          x="38.839836"
          y="-81.438568"
          style="stroke-width:0.71019375">Effluent Tank</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.3225565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806385"
-       x="41.500492"
-       y="11.235765"
-       id="text3069-5-8-1"><tspan
-         sodipodi:role="line"
-         id="tspan3067-6-6-7"
-         x="41.500492"
-         y="11.235765"
-         style="stroke-width:0.35806385">H </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.3225565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="41.500492"
-       y="-19.320627"
-       id="text3069-9-5-1-9"><tspan
-         sodipodi:role="line"
-         id="tspan3067-4-9-8-7"
-         x="41.500492"
-         y="-19.320627"
-         style="stroke-width:0.35806388">HH </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3089-7-8-2"
-       cx="78.023987"
-       cy="-22.687876"
-       rx="7.3662076"
-       ry="7.0459371"
-       inkscape:label="{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;95&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;SPS1_Level&quot;}]}" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-30-6-4"
-       cx="78.023987"
-       cy="7.1760192"
-       rx="7.3662076"
-       ry="6.725667" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.3225565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="41.500492"
-       y="41.792107"
-       id="text3069-1-5-7-6"><tspan
-         sodipodi:role="line"
-         id="tspan3067-40-1-9-4"
-         x="41.500492"
-         y="41.792107"
-         style="stroke-width:0.35806388">L </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-3-2-7-3"
-       cx="78.023987"
-       cy="37.039902"
-       rx="7.3662076"
-       ry="6.725667" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.3225565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="41.500492"
-       y="72.348495"
-       id="text3069-4-1-8-7"><tspan
-         sodipodi:role="line"
-         id="tspan3067-0-5-8-7"
-         x="41.500492"
-         y="72.348495"
-         style="stroke-width:0.35806388">LL </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-2-6-4-2"
-       cx="78.023987"
-       cy="66.903915"
-       rx="7.3662076"
-       ry="6.725667" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6859-0-8-6"
@@ -2557,79 +2338,6 @@
          x="602.51929"
          y="-71.598587"
          style="stroke-width:0.71019375">Secondary Effluent Tank</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.3225565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806385"
-       x="605.55225"
-       y="23.578983"
-       id="text3069-5-8-1-2"><tspan
-         sodipodi:role="line"
-         id="tspan3067-6-6-7-7"
-         x="605.55225"
-         y="23.578983"
-         style="stroke-width:0.35806385">H </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.3225565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="605.55225"
-       y="-6.9774127"
-       id="text3069-9-5-1-9-3"><tspan
-         sodipodi:role="line"
-         id="tspan3067-4-9-8-7-9"
-         x="605.55225"
-         y="-6.9774127"
-         style="stroke-width:0.35806388">HH </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3089-7-8-2-0"
-       cx="642.07574"
-       cy="-10.344661"
-       rx="7.3662076"
-       ry="7.0459371"
-       inkscape:label="{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;95&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;SPS1_Level&quot;}]}" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-30-6-4-6"
-       cx="642.07574"
-       cy="19.51923"
-       rx="7.3662076"
-       ry="6.725667" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.3225565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="605.55225"
-       y="54.135319"
-       id="text3069-1-5-7-6-0"><tspan
-         sodipodi:role="line"
-         id="tspan3067-40-1-9-4-9"
-         x="605.55225"
-         y="54.135319"
-         style="stroke-width:0.35806388">L </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-3-2-7-3-2"
-       cx="642.07574"
-       cy="49.383121"
-       rx="7.3662076"
-       ry="6.725667" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.3225565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
-       x="605.55225"
-       y="84.691711"
-       id="text3069-4-1-8-7-7"><tspan
-         sodipodi:role="line"
-         id="tspan3067-0-5-8-7-4"
-         x="605.55225"
-         y="84.691711"
-         style="stroke-width:0.35806388">LL </tspan></text>
-    <ellipse
-       style="display:inline;opacity:1;fill:#4ec3b6;fill-opacity:1;stroke:none;stroke-width:0.31755033;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3091-2-6-4-2-1"
-       cx="642.07574"
-       cy="79.247131"
-       rx="7.3662076"
-       ry="6.725667" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6859-0-8-6-9"
@@ -2981,7 +2689,7 @@
        transform="translate(-1.3664855,24.798681)"
        style="display:inline"
        id="g8136-7"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_HH&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_H&quot;]}">
       <text
          id="text3069-9-2"
          y="-611.95001"
@@ -3050,6 +2758,406 @@
          cy="-617.15662"
          cx="74.045082"
          id="path3089-0"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8136-1"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_HH&quot;]}"
+       transform="translate(496.32736,-2.8163962)">
+      <text
+         id="text3069-9-65"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-06"
+           sodipodi:role="line">HH </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-43"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(496.32736,21.982284)"
+       style="display:inline"
+       id="g8136-7-3"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_H&quot;]}">
+      <text
+         id="text3069-9-2-7"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-5-9"
+           sodipodi:role="line">H </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-6-4"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(496.32736,46.780964)"
+       style="display:inline"
+       id="g8136-4-6"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_L&quot;]}">
+      <text
+         id="text3069-9-23-9"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-0-8"
+           sodipodi:role="line">L </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-4-8"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(496.32736,71.579674)"
+       style="display:inline"
+       id="g8136-71-6"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_LL&quot;]}">
+      <text
+         id="text3069-9-6-3"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-6-5"
+           sodipodi:role="line">LL </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-0-8"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8136-6"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS1_LS_HH&quot;]}"
+       transform="translate(499.23898,384.83391)">
+      <text
+         id="text3069-9-4"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-9"
+           sodipodi:role="line">HH </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-7"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(499.23898,409.63259)"
+       style="display:inline"
+       id="g8136-7-5"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS1_LS_H&quot;]}">
+      <text
+         id="text3069-9-2-71"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-5-0"
+           sodipodi:role="line">H </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-6-0"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(499.23898,434.43127)"
+       style="display:inline"
+       id="g8136-4-8"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS1_LS_L&quot;]}">
+      <text
+         id="text3069-9-23-2"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-0-7"
+           sodipodi:role="line">L </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-4-1"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(499.23898,459.22998)"
+       style="display:inline"
+       id="g8136-71-68"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS1_LS_LL&quot;]}">
+      <text
+         id="text3069-9-6-9"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-6-7"
+           sodipodi:role="line">LL </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-0-9"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8136-3"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS2_LS_HH&quot;]}"
+       transform="translate(3.9789049,596.32591)">
+      <text
+         id="text3069-9-5"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-8"
+           sodipodi:role="line">HH </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-08"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(3.9789049,621.12459)"
+       style="display:inline"
+       id="g8136-7-2"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS2_LS_H&quot;]}">
+      <text
+         id="text3069-9-2-4"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-5-6"
+           sodipodi:role="line">H </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-6-49"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(3.9789049,645.92327)"
+       style="display:inline"
+       id="g8136-4-1"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS2_LS_L&quot;]}">
+      <text
+         id="text3069-9-23-91"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-0-5"
+           sodipodi:role="line">L </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-4-3"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(3.9789049,670.72198)"
+       style="display:inline"
+       id="g8136-71-9"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS2_LS_LL&quot;]}">
+      <text
+         id="text3069-9-6-8"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-6-3"
+           sodipodi:role="line">LL </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-0-7"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8136-60"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS2_LS_HH&quot;]}"
+       transform="translate(563.49493,598.01248)">
+      <text
+         id="text3069-9-8"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-3"
+           sodipodi:role="line">HH </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-68"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(563.49493,622.81116)"
+       style="display:inline"
+       id="g8136-7-0"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS2_LS_H&quot;]}">
+      <text
+         id="text3069-9-2-2"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-5-4"
+           sodipodi:role="line">H </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-6-8"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(563.49493,647.60984)"
+       style="display:inline"
+       id="g8136-4-61"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS2_LS_L&quot;]}">
+      <text
+         id="text3069-9-23-93"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-0-53"
+           sodipodi:role="line">L </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-4-9"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(563.49493,672.40855)"
+       style="display:inline"
+       id="g8136-71-7"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=LS2_LS_LL&quot;]}">
+      <text
+         id="text3069-9-6-95"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-6-8"
+           sodipodi:role="line">LL </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-0-96"
          style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>

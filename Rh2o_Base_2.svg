@@ -105,7 +105,7 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1842"
+     inkscape:window-width="1608"
      inkscape:window-height="872"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -2534,6 +2534,18 @@
            x="47.27018"
            y="-171.52138"
            style="stroke-width:0.77727604">Int.Clarifier</tspan></text>
+      <text
+         transform="scale(0.88949126,1.1242381)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:18.21876907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45546925"
+         x="26.658716"
+         y="-497.9129"
+         id="text6846-5-9"><tspan
+           id="tspan6844-4-0"
+           sodipodi:role="line"
+           x="26.658716"
+           y="-497.9129"
+           style="stroke-width:0.45546925">V2.1</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -3138,16 +3150,5 @@
          id="path3089-0-96"
          style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot572"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,-893.62467)"><flowRegion
-         id="flowRegion574"><rect
-           id="rect576"
-           width="205.71428"
-           height="57.142857"
-           x="4605.7144"
-           y="48.57143" /></flowRegion><flowPara
-         id="flowPara578">Base 2</flowPara></flowRoot>  </g>
+  </g>
 </svg>

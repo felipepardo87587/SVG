@@ -99,9 +99,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1002.2787"
-     inkscape:cy="3690.4323"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="898.53723"
+     inkscape:cy="3555.0353"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2736,33 +2736,6 @@
          id="path3089-0"
          style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:bold;font-size:14.32242466px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388;-inkscape-font-specification:'sans-serif, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-       x="533.84894"
-       y="-614.76642"
-       id="text3069-9-65"><tspan
-         sodipodi:role="line"
-         id="tspan3067-4-06"
-         x="533.84894"
-         y="-614.76642"
-         style="stroke-width:0.35806388;-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.32242466px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">HH </tspan></text>
-    <ellipse
-       style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3089-43"
-       cx="570.37244"
-       cy="-619.97302"
-       rx="7.3662071"
-       ry="7.0459371"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.3175503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3089-43-3"
-       cx="919.2381"
-       cy="-737.14252"
-       rx="7.3662076"
-       ry="7.0459371"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;SPS1_LS_HH&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;SPS1_LS_HH&quot;}]}" />
     <g
        transform="translate(496.32736,21.982284)"
        style="display:inline"
@@ -3141,7 +3114,7 @@
     <text
        transform="matrix(0.88949125,0,0,1.1242381,2.0452971,-305.7953)"
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-weight:normal;font-size:18.21876907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45546925"
+       style="font-style:normal;font-weight:normal;font-size:18.21876907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45546925"
        x="26.658716"
        y="-497.9129"
        id="text6846-5-9"><tspan
@@ -3149,6 +3122,56 @@
          sodipodi:role="line"
          x="26.658716"
          y="-497.9129"
-         style="stroke-width:0.45546925">V2.1</tspan></text>
+         style="stroke-width:0.45546925">V2.2</tspan></text>
+    <g
+       style="display:inline"
+       id="g8136-6-1"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS2_LS_HH&quot;]}"
+       transform="translate(495.75484,-0.97391594)">
+      <text
+         id="text3069-9-4-0"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-9-6"
+           sodipodi:role="line">HH </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-7-9"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8136-6-1-1"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_HH&quot;]}"
+       transform="translate(-1.5794721,2.4783738)">
+      <text
+         id="text3069-9-4-0-6"
+         y="-611.95001"
+         x="37.521587"
+         style="font-style:normal;font-weight:normal;font-size:14.32255363px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35806388"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35806388"
+           y="-611.95001"
+           x="37.521587"
+           id="tspan3067-4-9-6-8"
+           sodipodi:role="line">HH </tspan></text>
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;%l&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;%l&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662071"
+         cy="-617.15662"
+         cx="74.045082"
+         id="path3089-7-9-1"
+         style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

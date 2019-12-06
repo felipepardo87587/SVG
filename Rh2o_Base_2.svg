@@ -100,10 +100,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="1226.1896"
+     inkscape:cx="1959.5857"
      inkscape:cy="2857.6524"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8136-1"
      showgrid="false"
      inkscape:window-width="1842"
      inkscape:window-height="872"
@@ -2784,6 +2784,14 @@
          cx="74.045082"
          id="path3089-43"
          style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#888888&quot;,&quot;tag&quot;:&quot;SPS1_LS_L&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#F3F3F3&quot;,&quot;tag&quot;:&quot;SPS1_LS_L&quot;}]}"
+         ry="7.0459371"
+         rx="7.3662076"
+         cy="-734.32611"
+         cx="422.91074"
+         id="path3089-43-3"
+         style="display:inline;opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.3175503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        transform="translate(496.32736,21.982284)"

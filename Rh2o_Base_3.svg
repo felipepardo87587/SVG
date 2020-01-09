@@ -133,9 +133,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59822221"
-     inkscape:cx="3323.8305"
-     inkscape:cy="6209.9357"
+     inkscape:zoom="0.21150349"
+     inkscape:cx="3707.6667"
+     inkscape:cy="5500.2773"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -661,7 +661,7 @@
     <g
        id="g4924-87"
        transform="translate(103.44123,-1140.8243)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG69&quot;,&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:3,&quot;min&quot;:9,&quot;tag&quot;:&quot;TEST&quot;}"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG69&quot;,&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:14,&quot;min&quot;:15,&quot;tag&quot;:&quot;TEST&quot;}"
        style="display:inline">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"
@@ -2991,7 +2991,7 @@
          sodipodi:role="line"
          x="1031.7816"
          y="-1270.0183"
-         style="stroke-width:0.23888661">V3.2</tspan></text>
+         style="stroke-width:0.23888661">V3.3</tspan></text>
     <g
        style="display:inline"
        id="g8136-6-1"

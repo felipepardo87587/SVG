@@ -133,9 +133,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14955555"
-     inkscape:cx="3590.2365"
-     inkscape:cy="2578.8635"
+     inkscape:zoom="0.2991111"
+     inkscape:cx="1829.7386"
+     inkscape:cy="3569.6247"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -511,7 +511,7 @@
     <g
        id="g6300"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=AE1&quot;]}"
-       transform="matrix(1.1153691,0,0,1.2819256,-200.41336,437.62007)"
+       transform="matrix(1.1153691,0,0,1.2819256,-200.94253,437.0909)"
        style="opacity:0.92000002">
       <rect
          y="-968.58533"
@@ -557,13 +557,13 @@
          transform="scale(0.98009121,1.0203132)"
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:18.19462585px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45486566"
-         x="245.27214"
-         y="-967.76471"
+         x="240.41707"
+         y="-965.05957"
          id="text4804-4-0-3-0"><tspan
            sodipodi:role="line"
            id="tspan4802-9-4-2-74"
-           x="245.27214"
-           y="-967.76471"
+           x="240.41707"
+           y="-965.05957"
            style="stroke-width:0.45486566">DO</tspan></text>
     </g>
     <g
@@ -3730,5 +3730,18 @@
        height="190.35121"
        x="1037.2821"
        y="-513.21069" />
+    <text
+       inkscape:label=""
+       transform="scale(0.98009121,1.0203132)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.96731186px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.62418282"
+       x="354.47647"
+       y="-807.52411"
+       id="text6846-4-9-7-1"><tspan
+         id="tspan6844-9-5-7-6"
+         sodipodi:role="line"
+         x="354.47647"
+         y="-807.52411"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.62418282">Blowers</tspan></text>
   </g>
 </svg>

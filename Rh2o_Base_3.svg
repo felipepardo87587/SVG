@@ -133,9 +133,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42300698"
-     inkscape:cx="1170.6992"
-     inkscape:cy="5447.1285"
+     inkscape:zoom="0.59822221"
+     inkscape:cx="3323.8305"
+     inkscape:cy="6209.9357"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2991,7 +2991,7 @@
          sodipodi:role="line"
          x="1031.7816"
          y="-1270.0183"
-         style="stroke-width:0.23888661">V3.1</tspan></text>
+         style="stroke-width:0.23888661">V3.2</tspan></text>
     <g
        style="display:inline"
        id="g8136-6-1"
@@ -4556,5 +4556,16 @@
        height="190.29297"
        x="30.42721"
        y="-54.352509" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="946.98004"
+       y="-1408.0641"
+       id="text816"><tspan
+         sodipodi:role="line"
+         id="tspan814"
+         x="946.98004"
+         y="-1398.4086"
+         style="stroke-width:0.26458332"></tspan></text>
   </g>
 </svg>

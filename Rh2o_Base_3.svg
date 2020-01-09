@@ -133,9 +133,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14955555"
-     inkscape:cx="2686.5753"
-     inkscape:cy="5526.3405"
+     inkscape:zoom="0.42300698"
+     inkscape:cx="1713.7973"
+     inkscape:cy="5447.1285"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4558,8 +4558,8 @@
        y="-54.352509" />
     <g
        id="g4924-87-5"
-       transform="matrix(0.64313581,0,0,0.40467153,409.59483,-1181.0452)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG69&quot;,&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:9,&quot;min&quot;:8,&quot;tag&quot;:&quot;TEST&quot;}"
+       transform="matrix(0.72916118,0,0,0.58059545,409.08541,-1199.965)"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG69&quot;,&quot;%a=ALM1&quot;]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:2,&quot;min&quot;:9,&quot;tag&quot;:&quot;TEST&quot;}"
        style="display:inline">
       <rect
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#000000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#BFBFBF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;5&quot;,&quot;param&quot;:&quot;#FFF000&quot;,&quot;tag&quot;:&quot;%s&quot;},{&quot;data&quot;:&quot;6&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%s&quot;}]}"

@@ -133,9 +133,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14955555"
-     inkscape:cx="231.74111"
-     inkscape:cy="4221.0081"
+     inkscape:zoom="0.42300698"
+     inkscape:cx="4227.4953"
+     inkscape:cy="5542.0605"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -179,7 +179,7 @@
            y="78.233971" /></flowRegion><flowPara
          id="flowPara8765">faceplate</flowPara></flowRoot>    <g
        id="g4924"
-       transform="translate(137.60971,-1297.8787)"
+       transform="translate(134.4347,-1297.8787)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
@@ -235,7 +235,7 @@
     </g>
     <g
        id="g4924-8"
-       transform="translate(258.81233,-1296.2912)"
+       transform="translate(255.63732,-1296.2912)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG58&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
@@ -287,7 +287,7 @@
     </g>
     <g
        id="g4924-8-7"
-       transform="translate(380.01495,-1296.2912)"
+       transform="translate(376.83994,-1296.2912)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG59&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
@@ -580,7 +580,7 @@
     <g
        id="g6300"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=AE1&quot;]}"
-       transform="matrix(1.1153691,0,0,1.2819256,-175.92324,-48.283281)"
+       transform="matrix(1.1153691,0,0,1.2819256,-179.09825,-48.283281)"
        style="opacity:0.92000002">
       <rect
          y="-968.58533"
@@ -1508,7 +1508,7 @@
     </g>
     <g
        id="g4924-8-7-2"
-       transform="translate(501.21759,-1296.2912)"
+       transform="translate(498.04258,-1296.2912)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG60&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
@@ -2990,7 +2990,7 @@
          sodipodi:role="line"
          x="1029.0137"
          y="-1229.5294"
-         style="stroke-width:0.23888661">V2.6</tspan></text>
+         style="stroke-width:0.23888661">V3.0</tspan></text>
     <g
        style="display:inline"
        id="g8136-6-1"
@@ -4116,12 +4116,12 @@
          y="-720.40143"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.62418282">Post-Denit. Tank Dosing</tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1622404;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15996398;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect731-9-7-83-6-6"
-       width="320.73346"
-       height="190.3367"
-       x="724.30414"
-       y="-767.80798" />
+       width="320.73575"
+       height="185.03159"
+       x="724.30298"
+       y="-767.80914" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

@@ -135,7 +135,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.21150349"
      inkscape:cx="1634.6948"
-     inkscape:cy="5077.6029"
+     inkscape:cy="5455.8472"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2976,7 +2976,7 @@
          sodipodi:role="line"
          x="1051.157"
          y="-1381.9629"
-         style="stroke-width:0.23888661">V3.8</tspan></text>
+         style="stroke-width:0.23888661">V3.9</tspan></text>
     <g
        style="display:inline"
        id="g8136-6-1"
@@ -4033,7 +4033,7 @@
     <g
        style="display:inline"
        id="g6555-5-3"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=MXP1_ST&quot;]}"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG93&quot;]}"
        transform="translate(423.90957,-38.352116)">
       <path
          style="stroke-width:0.18583408"
@@ -4555,7 +4555,7 @@
        y="-1145.1006"
        id="text984-4"
        transform="scale(0.8583764,1.1649901)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG105&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;BL1_freq&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          x="197.7421"
          y="-1145.1006"

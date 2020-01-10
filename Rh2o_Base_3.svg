@@ -134,8 +134,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.2991111"
-     inkscape:cx="1965.8403"
-     inkscape:cy="5632.9554"
+     inkscape:cx="1192.1063"
+     inkscape:cy="1980.9048"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3830,7 +3830,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-4-7-2-5"
        transform="translate(763.68585,-941.96836)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG92&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=CDP1_S&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
@@ -3892,7 +3892,7 @@
     <g
        style="display:inline"
        id="g6555-5"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG61&quot;]}"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=MXP1_ST&quot;]}"
        transform="translate(406.39603,-104.84344)">
       <path
          style="stroke-width:0.18583408"
@@ -3971,7 +3971,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-4-7-2-5-3"
        transform="translate(763.68588,-751.63164)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG92&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=CDP2_S&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
@@ -4033,7 +4033,7 @@
     <g
        style="display:inline"
        id="g6555-5-3"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG61&quot;]}"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=MXP1_ST&quot;]}"
        transform="translate(406.39607,85.49336)">
       <path
          style="stroke-width:0.18583408"
@@ -4128,7 +4128,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-4-7-2-5-3-1"
        transform="translate(763.68586,-1132.3051)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG92&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=CDP3_S&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
@@ -4269,7 +4269,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-6-72"
        transform="translate(180.44549,2.5042887)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG86&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=RCP2_ST&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
@@ -4332,7 +4332,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-4-73"
        transform="translate(301.25128,2.5042887)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG87&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=RCP3_ST&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
@@ -4395,7 +4395,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-0"
        transform="translate(64.610491,2.5042887)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG85&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=RCP1_ST&quot;,&quot;%a=ALM1&quot;]}">
       <g
          id="g1878-4"
          inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG85&quot;]}">
@@ -4462,7 +4462,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-4-6-3"
        transform="translate(430.8642,3.8914687)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG87&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=RCP4_ST&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"

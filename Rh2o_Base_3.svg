@@ -135,9 +135,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.2991111"
      inkscape:cx="1965.8403"
-     inkscape:cy="4696.8484"
+     inkscape:cy="5632.9554"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4924-87-0-4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1842"
      inkscape:window-height="872"
@@ -156,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -182,7 +182,7 @@
        transform="translate(136.93663,-1342.6721)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG57&quot;,&quot;%a=ALM1&quot;]}">
       <text
-         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;],&quot;tag&quot;:&quot;%s&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Under Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
          id="text49"
          y="106.37385"
@@ -755,14 +755,6 @@
    id="tspan45-4-7"
    y="106.37385"
    x="4.4755578" /></tspan></text>
-      <ellipse
-         inkscape:label=""
-         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.03543457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         cy="59.396202"
-         cx="48.877335"
-         id="pump1-4-0-1"
-         rx="2.6620171"
-         ry="2.7712634" />
       <text
          id="text4804-6-9"
          y="21.107637"
@@ -1356,14 +1348,6 @@
    id="tspan45-4-7-4"
    y="106.37385"
    x="4.4755578" /></tspan></text>
-      <ellipse
-         inkscape:label=""
-         style="opacity:1;fill:#000000;fill-opacity:0.9891008;stroke:#000000;stroke-width:0.03543457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         cy="59.396202"
-         cx="48.877335"
-         id="pump1-4-0-1-5"
-         rx="2.6620171"
-         ry="2.7712634" />
       <text
          id="text4804-6-9-5"
          y="21.107637"
@@ -2992,7 +2976,7 @@
          sodipodi:role="line"
          x="1031.7816"
          y="-1270.0183"
-         style="stroke-width:0.23888661">V3.5</tspan></text>
+         style="stroke-width:0.23888661">V3.6</tspan></text>
     <g
        style="display:inline"
        id="g8136-6-1"
@@ -4567,6 +4551,6 @@
          id="tspan814"
          x="946.98004"
          y="-1398.4086"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
   </g>
 </svg>

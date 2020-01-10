@@ -134,8 +134,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.21150349"
-     inkscape:cx="2285.4788"
-     inkscape:cy="2415.9556"
+     inkscape:cx="1634.6948"
+     inkscape:cy="5077.6029"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3830,7 +3830,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-4-7-2-5"
        transform="translate(781.19935,-1065.8138)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=CDP1_S&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG95&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
@@ -3971,7 +3971,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-4-7-2-5-3"
        transform="translate(781.19938,-875.47712)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=CDP2_S&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG96&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
@@ -4128,7 +4128,7 @@
        style="display:inline"
        id="g4924-87-0-2-1-4-7-2-5-3-1"
        transform="translate(781.19936,-1256.1506)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=CDP3_S&quot;,&quot;%a=ALM1&quot;]}">
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG97&quot;,&quot;%a=ALM1&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
          transform="scale(0.99126486,1.0088121)"
@@ -4548,5 +4548,18 @@
          inkscape:connector-curvature="0"
          style="display:inline;fill:#030000;fill-opacity:1;stroke-width:1.17196059" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.72379303px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46809477"
+       x="197.7421"
+       y="-1145.1006"
+       id="text984-4"
+       transform="scale(0.8583764,1.1649901)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG105&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         x="197.7421"
+         y="-1145.1006"
+         style="stroke-width:0.46809477"
+         id="tspan988-43">%6.1f Hz</tspan></text>
   </g>
 </svg>

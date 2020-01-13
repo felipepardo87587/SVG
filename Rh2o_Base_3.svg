@@ -139,8 +139,8 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1842"
-     inkscape:window-height="872"
+     inkscape:window-width="1602"
+     inkscape:window-height="842"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2976,7 +2976,7 @@
          sodipodi:role="line"
          x="1051.157"
          y="-1381.9629"
-         style="stroke-width:0.23888661">V3.9</tspan></text>
+         style="stroke-width:0.23888661">V3.8</tspan></text>
     <g
        style="display:inline"
        id="g8136-6-1"
@@ -4555,11 +4555,24 @@
        y="-1145.1006"
        id="text984-4"
        transform="scale(0.8583764,1.1649901)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;BL1_freq&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG105&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          x="197.7421"
          y="-1145.1006"
          style="stroke-width:0.46809477"
          id="tspan988-43">%6.1f Hz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.72379303px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46809477"
+       x="339.03638"
+       y="-1143.6471"
+       id="text984-4-3"
+       transform="scale(0.8583764,1.1649901)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG106&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         x="339.03638"
+         y="-1143.6471"
+         style="stroke-width:0.46809477"
+         id="tspan988-43-9">%6.1f Hz</tspan></text>
   </g>
 </svg>

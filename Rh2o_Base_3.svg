@@ -133,9 +133,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21150349"
-     inkscape:cx="1634.6948"
-     inkscape:cy="5455.8472"
+     inkscape:zoom="0.14955555"
+     inkscape:cx="1721.9668"
+     inkscape:cy="5336.3956"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -235,7 +235,7 @@
     </g>
     <g
        id="g4924-8"
-       transform="translate(275.65275,-1464.9301)"
+       transform="translate(275.65275,-1466.5176)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG58&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
@@ -287,7 +287,7 @@
     </g>
     <g
        id="g4924-8-7"
-       transform="translate(396.85537,-1464.9301)"
+       transform="translate(396.85537,-1466.5176)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG59&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
@@ -1494,7 +1494,7 @@
     </g>
     <g
        id="g4924-8-7-2"
-       transform="translate(518.05801,-1464.9301)"
+       transform="translate(518.05801,-1466.5176)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%s=TAG60&quot;]}">
       <text
          inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Not present&quot;,&quot;1=Off – Auto&quot;,&quot;2=Off - Manual&quot;,&quot;3=On – Auto&quot;,&quot;4=On – Manual&quot;,&quot;5=Maintenance&quot;,&quot;6=Alarm&quot;,&quot;7=Fault&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;,&quot;8=Commissioning&quot;,&quot;15=Disabled&quot;],&quot;tag&quot;:&quot;%s&quot;}"
@@ -4550,29 +4550,55 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.72379303px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46809477"
-       x="197.7421"
-       y="-1145.1006"
+       style="font-style:normal;font-weight:normal;font-size:17.10739517px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42768481"
+       x="184.61871"
+       y="-1228.934"
        id="text984-4"
-       transform="scale(0.8583764,1.1649901)"
+       transform="scale(0.91952752,1.087515)"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG105&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
-         x="197.7421"
-         y="-1145.1006"
-         style="stroke-width:0.46809477"
+         x="184.61871"
+         y="-1228.934"
+         style="stroke-width:0.42768481"
          id="tspan988-43">%6.1f Hz</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.72379303px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46809477"
-       x="339.03638"
-       y="-1143.6471"
-       id="text984-4-3"
-       transform="scale(0.8583764,1.1649901)"
+       style="font-style:normal;font-weight:normal;font-size:17.10739326px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42768478"
+       x="312.76199"
+       y="-1228.934"
+       id="text984-4-7"
+       transform="scale(0.91952754,1.087515)"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG106&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
-         x="339.03638"
-         y="-1143.6471"
-         style="stroke-width:0.46809477"
-         id="tspan988-43-9">%6.1f Hz</tspan></text>
+         x="312.76199"
+         y="-1228.934"
+         style="stroke-width:0.42768478"
+         id="tspan988-43-2">%6.1f Hz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.10739326px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42768478"
+       x="440.9053"
+       y="-1228.934"
+       id="text984-4-9"
+       transform="scale(0.91952754,1.087515)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG107&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         x="440.9053"
+         y="-1228.934"
+         style="stroke-width:0.42768478"
+         id="tspan988-43-1">%6.1f Hz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.10739326px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42768478"
+       x="569.04865"
+       y="-1228.934"
+       id="text984-4-5"
+       transform="scale(0.91952754,1.087515)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG108&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         x="569.04865"
+         y="-1228.934"
+         style="stroke-width:0.42768478"
+         id="tspan988-43-4">%6.1f Hz</tspan></text>
   </g>
 </svg>

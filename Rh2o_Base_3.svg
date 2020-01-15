@@ -125,6 +125,32 @@
          stdDeviation="0.18403123"
          id="feGaussianBlur8685-7" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8683-2-0-3-5"
+       x="-0.0098149991"
+       width="1.01963"
+       y="-0.014722498"
+       height="1.0294451">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.18403123"
+         id="feGaussianBlur8685-6-7-9-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8683-2-0-3-1"
+       x="-0.0098149991"
+       width="1.01963"
+       y="-0.014722498"
+       height="1.0294451">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.18403123"
+         id="feGaussianBlur8685-6-7-9-17" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -133,14 +159,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14955555"
-     inkscape:cx="1721.9668"
-     inkscape:cy="5336.3956"
+     inkscape:zoom="0.2991111"
+     inkscape:cx="2680.4419"
+     inkscape:cy="3456.1855"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1602"
-     inkscape:window-height="842"
+     inkscape:window-width="1608"
+     inkscape:window-height="872"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2516,7 +2542,7 @@
          style="display:inline;fill:#030000;fill-opacity:1;stroke-width:1.17196059" />
     </g>
     <g
-       transform="translate(560.75936,-59.923226)"
+       transform="translate(563.93438,-59.923226)"
        style="display:inline"
        id="g8136-7"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_H&quot;]}">
@@ -2541,7 +2567,7 @@
          style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(559.70102,-35.653726)"
+       transform="translate(563.93438,-35.653726)"
        style="display:inline"
        id="g8136-4"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_L&quot;]}">
@@ -2566,7 +2592,7 @@
          style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.31755027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(560.75936,-10.325826)"
+       transform="translate(563.93438,-10.325826)"
        style="display:inline"
        id="g8136-71"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_LL&quot;]}">
@@ -3006,7 +3032,7 @@
        style="display:inline"
        id="g8136-6-1-1"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%l=SPS1_LS_HH&quot;]}"
-       transform="translate(560.54637,-82.243527)">
+       transform="translate(563.93438,-82.243527)">
       <text
          id="text3069-9-4-0-6"
          y="-611.95001"
@@ -3029,9 +3055,9 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(0.47434206,0,0,0.67698361,668.18189,-517.87356)"
+       transform="matrix(0.47434206,0,0,0.67698361,669.15243,-456.96965)"
        id="g7517-8-2-6-4-4-9-2"
-       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;SPS1_ALM&quot;}"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;SPS1_AL_LL&quot;}"
        inkscape:transform-center-x="6.8803041"
        inkscape:transform-center-y="-55.042437">
       <path
@@ -3068,9 +3094,9 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(0.47434206,0,0,0.67698361,669.13695,-547.23483)"
+       transform="matrix(0.47434206,0,0,0.67698361,669.15243,-547.23483)"
        id="g7517-8-2-6-4-4-9-2-2"
-       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;SPS1_LS_HH&quot;}"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;SPS1_AL_HH&quot;}"
        inkscape:transform-center-x="6.8803041"
        inkscape:transform-center-y="-55.042437">
       <path
@@ -3104,32 +3130,6 @@
            x="-107.7966"
            y="-272.03818"
            style="stroke-width:0.37392494" /></text>
-    </g>
-    <g
-       style="display:inline"
-       id="g7051-6"
-       transform="matrix(0.89956309,0,0,0.97235334,-377.73726,-790.33869)"
-       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;SPS1_LS_LL&quot;}">
-      <rect
-         y="159.88312"
-         x="1050.2115"
-         height="19.493374"
-         width="29.156872"
-         id="rect8623-7"
-         style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.13952087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:label="" />
-      <text
-         transform="scale(0.98009121,1.0203132)"
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:22.48193169px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56204826"
-         x="1078.6722"
-         y="174.7885"
-         id="text6846-47-8"><tspan
-           id="tspan6844-0-1"
-           sodipodi:role="line"
-           x="1078.6722"
-           y="174.7885"
-           style="stroke-width:0.56204826">2</tspan></text>
     </g>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.21368654;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4600,5 +4600,83 @@
          y="-1228.934"
          style="stroke-width:0.42768478"
          id="tspan988-43-4">%6.1f Hz</tspan></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.47434206,0,0,0.67698361,669.15243,-517.14643)"
+       id="g7517-8-2-6-4-4-9-2-2-0"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;SPS1_AL_H&quot;}"
+       inkscape:transform-center-x="6.8803041"
+       inkscape:transform-center-y="-55.042437">
+      <path
+         inkscape:label=""
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="almshape1-8-4-6-5-1-2-9-5-1"
+         d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8683-2-0-3-5)" />
+      <text
+         inkscape:label=""
+         id="almshapetext-5-7-0-0-7-2-1-7-2-1"
+         y="-222.63782"
+         x="-185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="-222.63782"
+           x="-185"
+           id="tspan7330-0-1-1-7-1-5-0-1-3-3-2"
+           sodipodi:role="line"
+           style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.95699787px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37392494"
+         x="-107.7966"
+         y="-285.6839"
+         id="text8673-7-1-6-8"
+         transform="scale(1.1546118,0.86609199)"><tspan
+           sodipodi:role="line"
+           id="tspan8671-7-0-0-9"
+           x="-107.7966"
+           y="-272.03818"
+           style="stroke-width:0.37392494" /></text>
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.47434206,0,0,0.67698361,669.15243,-487.05806)"
+       id="g7517-8-2-6-4-4-9-2-2-8"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;SPS1_AL_L&quot;}"
+       inkscape:transform-center-x="6.8803041"
+       inkscape:transform-center-y="-55.042437">
+      <path
+         inkscape:label=""
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="almshape1-8-4-6-5-1-2-9-5-3"
+         d="m -185.50527,-246.88653 -22.5,30 h 45 l -22.5,-30"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8683-2-0-3-1)" />
+      <text
+         inkscape:label=""
+         id="almshapetext-5-7-0-0-7-2-1-7-2-8"
+         y="-222.63782"
+         x="-185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="-222.63782"
+           x="-185"
+           id="tspan7330-0-1-1-7-1-5-0-1-3-3-5"
+           sodipodi:role="line"
+           style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.95699787px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37392494"
+         x="-107.7966"
+         y="-285.6839"
+         id="text8673-7-1-6-9"
+         transform="scale(1.1546118,0.86609199)"><tspan
+           sodipodi:role="line"
+           id="tspan8671-7-0-0-2"
+           x="-107.7966"
+           y="-272.03818"
+           style="stroke-width:0.37392494" /></text>
+    </g>
   </g>
 </svg>

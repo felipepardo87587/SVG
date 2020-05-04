@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -27,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-491.42857"
+     inkscape:cx="-314.61519"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="g6300"
@@ -58,81 +57,6 @@
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=AE1&quot;]}"
        transform="matrix(1.1153691,0,0,1.2819256,-236.34266,1265.8127)"
        style="display:inline;opacity:0.92000002">
-      <rect
-         y="-968.58533"
-         x="254.75436"
-         height="80.860725"
-         width="12.517912"
-         id="rect1519-3-8-4-82"
-         style="fill:#00cfcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88239509"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-55&quot;,&quot;tag&quot;:&quot;%n&quot;}]}" />
-      <rect
-         transform="scale(-1)"
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:23,&quot;min&quot;:21,&quot;tag&quot;:&quot;!ILIM%n&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-56&quot;,&quot;tag&quot;:&quot;%n&quot;}]}"
-         y="887.72455"
-         x="-267.27228"
-         height="40.430363"
-         width="12.517912"
-         id="rect1517-2-5-74-1"
-         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88239509" />
-      <path
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-57&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;a&quot;,&quot;param&quot;:&quot;-cor-58&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL $V('%n') !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="rect1521-2-7-9-98"
-         d="m 229.71852,-893.94463 25.03582,6.22005 v 0 l -25.03582,6.22006 z"
-         style="fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88239509" />
-      <rect
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:23,&quot;min&quot;:25,&quot;tag&quot;:&quot;!SLIM%n&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-56&quot;,&quot;tag&quot;:&quot;%n&quot;}]}"
-         y="-968.58533"
-         x="254.75436"
-         height="40.430363"
-         width="12.517912"
-         id="rect1517-1-1-6-46-5"
-         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88239509" />
-      <use
-         height="1500"
-         width="2400"
-         transform="translate(5.882424e-5,-80.676207)"
-         id="use1544-6-1-4-3"
-         xlink:href="#rect1521-2-7-9-98"
-         y="0"
-         x="0" />
-      <text
-         transform="scale(1.0076166,0.99244097)"
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:11.56462669px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28911567"
-         x="230.76636"
-         y="-875.53607"
-         id="text4804-4-0-3-0"><tspan
-           sodipodi:role="line"
-           id="tspan4802-9-4-2-74"
-           x="230.76636"
-           y="-875.53607"
-           style="stroke-width:0.28911567">DO %</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:9.77241516px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24431038"
-         x="230.85239"
-         y="-1007.2338"
-         id="text984"
-         transform="scale(1.0278918,0.97286504)"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-           sodipodi:role="line"
-           id="tspan982"
-           x="230.85239"
-           y="-1007.2338"
-           style="stroke-width:0.24431038">%6.1f</tspan><tspan
-           sodipodi:role="line"
-           x="230.85239"
-           y="-995.01831"
-           style="stroke-width:0.24431038"
-           id="tspan986" /><tspan
-           sodipodi:role="line"
-           x="230.85239"
-           y="-982.8028"
-           style="stroke-width:0.24431038"
-           id="tspan988" /></text>
       <g
          id="g4924-87"
          transform="matrix(0.89656421,0,0,0.78007648,291.90606,-979.48974)"
